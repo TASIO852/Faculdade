@@ -12,7 +12,7 @@
 E todo o conjunto tem a velociade de 122.5 Mbps
 
 rede conexão via Bluetooth
-![rede](img/rede.png)
+![rede](Images/rede.png)
 
 1. protocolo ARP ?
 
@@ -22,10 +22,10 @@ Protocolo de Resolução de Endereços, ele e utilizado para mapear dinamicament
 
 E a lista dos protocolos de rede associados a cada endereço
 
-![gtmac](img/getmac.png)
+![gtmac](Images/getmac.png)
 
 1. protocolo ARP ?
 
 Protocolo de Resolução de Endereços, ele e utilizado para mapear dinamicamente endereços da camada 3 (rede) com a camada 2 (enlace). Tipicamente, ele é utilizado para mapear endereços IPs (Internet Protocol) em endereços MAC (Media Access Control).
 
-![arp](img/arp.png)
+![arp](Images/arp.png)

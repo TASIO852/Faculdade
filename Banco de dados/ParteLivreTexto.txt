@@ -1,5 +1,0 @@
-Trabalho de banco de dados 
-
- - Companhia Aérea.  
-
-	Em uma companhia aérea possuem passageiros que são registrados: CPF, nome (formado de um primeiro nome e de um sobrenome), endereço (composto de um logradouro, nome, número, complemento, CEP, bairro, cidade e estado), e-mail e pelo menos um telefone. A Companhia possui também os aviões que são caracterizados por um número de série único e tem um modelo. O assento que tem sua posição única em um determinado avião, e ele é identificada por um código, ele pode ser da classe econômica ou . Um avião possui vários assentos e pode ser usado em vários voos, um voo é identificado por um número e utiliza: um avião, um piloto, um aeroporto de partida e outro de chegada. E o passageiro pode reservar um assento em um voo. 
