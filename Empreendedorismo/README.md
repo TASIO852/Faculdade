@@ -20,6 +20,6 @@
 # Identificar o conceito de empreendedorismo
 # Explicar o processo de ação empreendedora
 # Definir os estágios de uma ação empreendedora
-# Identificar o conceito de empreendedorismo corporativo;
-# Diferenciar as empresas administradas de modo tradicional daquelas administradas de modo empreendedor;
+# Identificar o conceito de empreendedorismo corporativo
+# Diferenciar as empresas administradas de modo tradicional daquelas administradas de modo empreendedor
 # Analisar os desafios vividos pelas empresas no estabelecimento de uma cultura empreendedora.
