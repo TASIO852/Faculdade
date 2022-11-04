@@ -23,3 +23,9 @@
 # Identificar o conceito de empreendedorismo corporativo
 # Diferenciar as empresas administradas de modo tradicional daquelas administradas de modo empreendedor
 # Analisar os desafios vividos pelas empresas no estabelecimento de uma cultura empreendedora.
+# Entender que a ação básica do empreendedorismo abrange uma nova entrada.
+# Identificar como os recursos estão envolvidos na geração de oportunidades.
+# Analisar como uma empresa pode criar um pacote de recursos valioso, raro e inimitável.
+# Perceber os aspectos e a importância de identificar boas oportunidades nacionais ou internacionais;
+# Reconhecer a importância do plano de avaliação de oportunidades;
+# Desenvolver um plano de avaliação de oportunidades.
