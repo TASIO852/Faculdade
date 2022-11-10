@@ -29,3 +29,6 @@
 # Perceber os aspectos e a importância de identificar boas oportunidades nacionais ou internacionais;
 # Reconhecer a importância do plano de avaliação de oportunidades;
 # Desenvolver um plano de avaliação de oportunidades.
+Identificar o planejamento como parte da operação empresarial.
+Definir o que é o plano de negócio e como este deve ser elaborado e avaliado.
+Entender o escopo e o valor do plano de negócio para investidores, financiadores, funcionários, fornecedores e clientes.
