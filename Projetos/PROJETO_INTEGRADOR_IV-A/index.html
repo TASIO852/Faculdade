@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAESA - Formulário de Contato</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <main id="main-content" role="main">
+        <section id="formulario">
+            <h2>Formulário de Contato</h2>
+            <form action="php_backend.php" method="POST">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" required>
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
+                <label for="telefone">Telefone:</label>
+                <input type="tel" id="telefone" name="telefone" required pattern="\(\d{2}\) \d{4,5}-\d{4}">
+                <label for="mensagem">Mensagem:</label>
+                <textarea id="mensagem" name="mensagem" required minlength="10"></textarea>
+                <input type="submit" value="Enviar">
+            </form>
+        </section>
+    </main>
+</body>
+</html>

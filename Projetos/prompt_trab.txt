@@ -1,0 +1,22 @@
+Crie os codigos nas 3 linguagens de acordo com a descrição do projeto e tambem me forneça uma estrutura de pastas do mesmo com os comandos de terminal para criar as pastas :
+
+PROJETO INTEGRADOR IV-A
+
+Vamos agora, às orientações do trabalho:
+
+Neste trabalho, você irá criar uma landing page com uma side bar, com uma sessao falando sobre a faesa e ou com imagens da faculdade e por ultimo você criará uma página com um formulário em que o usuário digitará as informações e essas serão armazenadas no banco de dados.
+# ALGUMAS CONSIDERAÇÕES:
+- Utilize imagens de fundo para animações em sua página
+- Utilizar as liguagens PHP, HTML e CSS para criação da landing page de forma simples. Lembre-se de comentar as linhas de seu código, informando o que se refere cada comando.
+- Simular o armazenamento das informações que forem submetidas no formulário em um banco de dados
+- Validar as informações submetidas para evitar que dados indevidos sejam enviados ao banco de dados
+- Ter o codigo do backend em PHP centralizado em apenas um unico arquivo
+
+# DADOS DO FORMULÁRIO:
+- Nome: é obrigatório;
+- E-mail: é obrigatório, deve ser de um formato de e-mail válido (usar regex);
+- Telefone: é obrigatório, deve ser de um formato de telefone válido, aceitar DDD,
+aceitar tanto telefone fixo (formato: (99) 9999 9999) quando * telefone celular
+(formato: (99) 99999 9999);
+- Mensagem: é obrigatório, deve ter pelo menos 10 caracteres;
+- Após ter os dados validados, armazenar os dados coletados no banco de dados.
